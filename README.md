@@ -4,7 +4,7 @@
 
 The LinkedIn Hashtag Tracker is a tool that helps track the engagement of a LinkedIn hashtag by scraping LinkedIn for the relevant posts using the hashtags, extracting data such as the date of the post, the number of likes, and the number of comments, and plotting a chart to show the engagement analytics.
 
-[Demo.webm](readme/Demo.webm)
+![](readme/Demo.gif)
 
 ## **Getting Started**
 
