@@ -9,6 +9,7 @@ __pycache__/
 *.so
 
 *.html
+*.csv
 
 # Distribution / packaging
 .Python

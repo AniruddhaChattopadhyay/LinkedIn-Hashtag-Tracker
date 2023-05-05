@@ -39,7 +39,7 @@ streamlit run hashtag_webapp.py
     
     i) you want to see engagement for likes or comments or both?
     
-    ii) How would you like your charts? At a daily, weekly or monthly level? 
+    ii) How would you like your charts? At a daily, weekly, monthly level or all three charts? 
     
     iii) Instruction for the scrapper: Should it only scrape information from your your network? Should it scrape posts in the last 24hours or in the last week or scrape all posts from a month back. 
     
